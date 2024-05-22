@@ -2,7 +2,7 @@
 
 **Task2: /cdn-cgi/login**
 Utilizando ctrl+u se puede encontrar en la ruta del login
-![[Pasted image 20240523000936.png]]
+![[images/Pasted image 20240523000936.png]]
 
 **Task3: cookie**
 
