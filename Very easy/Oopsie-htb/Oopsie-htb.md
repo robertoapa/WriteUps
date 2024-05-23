@@ -4,15 +4,16 @@
 Utilizando ctrl+u se puede encontrar en la ruta del login
 
 <img src="./images/Pasted image 20240523000936.png">
-![](.images/Pasted_image_20240523000428.png)
-
 
 **Task3: cookie**
 
 **Task4: 34322**
 Cambiando el id del usuario por 1 obtenemos acceso al usuario admin
+
 <img src="./images/Pasted image 20240523001429.png">
-<img src="./imagesPasted image 20240523001444.png">
+
+<img src="./images/Pasted image 20240523001444.png">
+
 **Task5: /uploads**
 
 **Task6: db.php**
@@ -21,6 +22,7 @@ Para subir archivos se debe tener permisos de admin, sabiendo el id de admin cam
 <img src="./images/Pasted image 20240523003626.png">
 
 <img src="./images/Pasted image 20240523003641.png">
+
 Subimos un reverse-shell en php y lo buscamos en http://ip/reverse.php mientras escuchamos con netcat para obtener acceso a la maquina.
 
 Para obtener una tty ejecutamos en el siguiente comando:
@@ -53,10 +55,12 @@ luego ejecutamos:
 export PATH=rutaArchivoCat:$PATH
 
 y al ejecutar bugtracker obtendremos una bash con el usuario root.
-			<img src="./images/Pasted image 20240523014628.png">
+			
+<img src="./images/Pasted image 20240523014628.png">
    	
 			
  por ultimo con less vemos el contenido del archivo /root/root.txt
-			 <img src="./images/Pasted image 20240523014749.png">
+ 
+ <img src="./images/Pasted image 20240523014749.png">
 
 
