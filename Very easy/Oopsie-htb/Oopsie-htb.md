@@ -4,7 +4,7 @@
 Utilizando ctrl+u se puede encontrar en la ruta del login
 
 <img src="./images/Pasted image 20240523000936.png">
-![](images/Pasted%20image%2020240523014749.png)
+![](.images/Pasted_image_20240523000428.png)
 
 
 **Task3: cookie**
@@ -54,9 +54,9 @@ export PATH=rutaArchivoCat:$PATH
 
 y al ejecutar bugtracker obtendremos una bash con el usuario root.
 
-			![[./image/Pasted image 20240523014628.png]]
+			<img src="./image/Pasted image 20240523014628.png">
 			
  por ultimo con less vemos el contenido del archivo /root/root.txt
-			 ![[Pasted image 20240523014749.png]]
+			 <img src="./image/Pasted image 20240523014749.png">
 
 
