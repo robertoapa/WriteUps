@@ -5,7 +5,7 @@ Utilizando ctrl+u se puede encontrar en la ruta del login
 ![[images/Pasted image 20240523000936.png]]
 ![hola](Pasted image 20240523000936.png)
 ![hola](images/Pasted image 20240523000936.png)
-![](https://Very easy/Oopsie-htb/images/Pasted image 20240523000936.png)
+![](https://github.com/robertoapa/WriteUps/blob/main/Very%20easy/Oopsie-htb/images/Pasted%20image%2020240523000428.png)
 
 **Task3: cookie**
 
