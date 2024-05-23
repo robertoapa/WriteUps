@@ -11,8 +11,8 @@ Utilizando ctrl+u se puede encontrar en la ruta del login
 
 **Task4: 34322**
 Cambiando el id del usuario por 1 obtenemos acceso al usuario admin
-![[Pasted image 20240523001429.png]]
-![[Pasted image 20240523001444.png]]
+<img src="./images/Pasted image 20240523001429.png">
+<img src="./imagesPasted image 20240523001444.png">
 **Task5: /uploads**
 
 **Task6: db.php**
@@ -53,10 +53,10 @@ luego ejecutamos:
 export PATH=rutaArchivoCat:$PATH
 
 y al ejecutar bugtracker obtendremos una bash con el usuario root.
-			<img src="./image/Pasted image 20240523014628.png">
+			<img src="./images/Pasted image 20240523014628.png">
    	
 			
  por ultimo con less vemos el contenido del archivo /root/root.txt
-			 <img src="./image/Pasted_image_20240523014749.png">
+			 <img src="./images/Pasted image 20240523014749.png">
 
 
