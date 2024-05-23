@@ -53,10 +53,10 @@ luego ejecutamos:
 export PATH=rutaArchivoCat:$PATH
 
 y al ejecutar bugtracker obtendremos una bash con el usuario root.
-
 			<img src="./image/Pasted image 20240523014628.png">
+   	
 			
  por ultimo con less vemos el contenido del archivo /root/root.txt
-			 <img src="./image/Pasted image 20240523014749.png">
+			 <img src="./image/Pasted_image_20240523014749.png">
 
 
